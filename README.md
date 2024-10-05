@@ -25,7 +25,7 @@ For this project, I was interestested in using an example music streaming servic
 
 File Descriptions
 
-There is one notebook available here to showcase work related to the above exploration. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is one notebook available here to showcase work related to the above exploration. Markdown cells were used to assist in walking through the thought process for individual steps.  The Sparkify json data file will need to be unzipped before using the ChurnAnalysis code for analysis.
 
 
 Results
