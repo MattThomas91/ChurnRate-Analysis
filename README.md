@@ -30,7 +30,7 @@ There is one notebook available here to showcase work related to the above explo
 
 Results
 
-The main findings of the code can be found at the post available on Medium (https://medium.com/@matthewaaronthomas9/predicting-churnrate-for-a-music-service...).
+The main findings of the code can be found at the post available on Medium (https://medium.com/@matthewaaronthomas9/predicting-churn-for-music-streaming-service-subscriptions-e9bc0a9246d2).
 
 Licensing, Authors, Acknowledgements
 
